@@ -1,0 +1,11 @@
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe.config
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.exe
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\bin\Debug\WindowsFormsApp23.pdb
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Form1.resources
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.Properties.Resources.resources
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.exe
+C:\Users\Артур\source\repos\WindowsFormsApp23\WindowsFormsApp23\obj\Debug\WindowsFormsApp23.pdb

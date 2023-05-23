@@ -1,0 +1,11 @@
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Form1.resources
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+C:\Users\Артур\source\repos\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
